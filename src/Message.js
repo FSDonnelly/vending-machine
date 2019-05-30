@@ -6,4 +6,5 @@ class Message extends Component {
     return <div className='Message'>{this.props.children}</div>;
   }
 }
+
 export default Message;
